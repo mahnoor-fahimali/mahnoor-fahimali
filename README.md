@@ -1,4 +1,4 @@
-![Mahnoor Fahim - Web Developer & Creative Designer](banner.png)
+![Mahnoor Fahim - Web Developer & Creative Designer](Pastel Creative Workspace Banner.png)
 
 # Hey, I'm Mahnoor Fahim! 👋💗
 
