@@ -1,3 +1,5 @@
+![Mahnoor Fahim - Web Developer & Creative Designer](banner.png)
+
 # Hey, I'm Mahnoor Fahim! 👋💗
 
 ### 🌷 Web Developer | Graphic Designer | Video Editor
