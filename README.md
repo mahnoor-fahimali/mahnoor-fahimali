@@ -84,3 +84,16 @@ I'm always happy to learn, collaborate, share ideas, and connect with other peop
 <p align="center">
   <i>✨ Learning, building, and growing one commit at a time! ✨</i>
 </p>
+
+
+<h3 align="center">🐍 My Contribution Snake</h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/mahnoor-fahimali/mahnoor-fahimali/output/github-snake-dark.svg">
+    <img alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/mahnoor-fahimali/mahnoor-fahimali/output/github-snake.svg"
+      width="100%">
+  </picture>
+</p>
