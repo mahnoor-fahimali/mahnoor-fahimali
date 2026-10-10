@@ -70,3 +70,17 @@ I'm always happy to learn, collaborate, share ideas, and connect with other peop
 ---
 
 ⭐ *Thanks for visiting my profile! Keep learning, keep creating, and keep growing.* 🌸
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahnoor-fahimali&show_icons=true&theme=rose_pine&hide_border=true" alt="Mahnoor's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mahnoor-fahimali&theme=rose-pine&hide_border=true" alt="Mahnoor's GitHub Contribution Streak" />
+</p>
+
+<p align="center">
+  <i>✨ Learning, building, and growing one commit at a time! ✨</i>
+</p>
