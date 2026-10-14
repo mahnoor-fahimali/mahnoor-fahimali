@@ -2,7 +2,7 @@
 
 # Hey, I'm Mahnoor Fahim! 👋💗
 
-### 🌷 Web Developer | Graphic Designer | Video Editor
+### 🌷 Web Developer 
 
 Welcome to my GitHub profile! I'm a passionate learner exploring the world of web development and creative design. I love turning ideas into visually appealing, user-friendly digital experiences.
 
@@ -14,8 +14,6 @@ Currently, I'm wrapping up my JavaScript learning journey and strengthening my p
 
 - 🌐 I've learned **HTML5 and CSS3** and use them to build websites.
 - ⚡ Currently completing **JavaScript** fundamentals.
-- 🎨 I also work as a **Graphic Designer**.
-- 🎬 I enjoy **Video Editing** and creating engaging visual content.
 - 📚 Always learning, experimenting, and improving my skills.
 - 🎯 My goal is to become a skilled **Full-Stack Developer**.
 
@@ -32,8 +30,8 @@ Currently, I'm wrapping up my JavaScript learning journey and strengthening my p
 
 ### 🎨 Creative Skills
 
-- Graphic Design
-- Video Editing
+- Strong communication skills
+- Fluent english
 
 ---
 
