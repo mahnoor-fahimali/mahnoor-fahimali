@@ -1,4 +1,4 @@
-![Mahnoor Fahim - Web Developer & Creative Designer](github-banner (2).png)
+![Mahnoor Fahim - Web Developer & Creative Designer](github-banner(2).png)
 
 # Hey, I'm Mahnoor Fahim! 👋💗
 
